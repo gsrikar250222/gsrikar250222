@@ -4,7 +4,7 @@
 🌱 I’m currently learning Python, JavaScript, and Machine Learning  
 🤝 I’m looking to collaborate on innovative AI & Web Dev projects  
 📫 How to reach me: gsrikar888@gmail.com  
-😄 Pronouns: She/Her  
+😄 Pronouns:Her  
 ⚡ Fun fact: I love building smart robots and dream of studying in Germany with a scholarship!
 
 <!--
